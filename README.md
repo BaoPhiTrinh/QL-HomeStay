@@ -5,9 +5,9 @@ Các thành viên trong nhóm
 2. Nguyễn Nhựt Phi - Thành viên</br>
 3. Nguyễn Thị Ngọc Trinh - Thành viên
 </div>
-<p align="center" width="100%"> <img src="https://github.com/T6-PTPM-2023-QL-HomeStay/T6-PTPM-2023-QL-HomeStay/assets/103061751/5acfad8b-677d-4bf0-86cf-c99b65239cd0" alt="Trần Minh Bảo" width="15%">
-  <img width="10%"><img src= "https://github.com/T6-PTPM-2023-QL-HomeStay/T6-PTPM-2023-QL-HomeStay/assets/103061751/5ed64073-a96b-4f0d-9a9e-33a689552f4f" alt="Nguyễn Nhựt Phi" width="16%"><img width="10%">
-  <img src="https://github.com/T6-PTPM-2023-QL-HomeStay/T6-PTPM-2023-QL-HomeStay/assets/103061751/2de585aa-5c91-4f78-8891-72c3f47c0daa alt="Nguyễn Thị Ngọc Trinh" width="14%"> </p>
+<p align="center" width="100%" gap:20px><img src="https://github.com/T6-PTPM-2023-QL-HomeStay/T6-PTPM-2023-QL-HomeStay/assets/103061751/5acfad8b-677d-4bf0-86cf-c99b65239cd0" alt="Trần Minh Bảo" width="15%">
+<img width="10%"><img src= "https://github.com/T6-PTPM-2023-QL-HomeStay/T6-PTPM-2023-QL-HomeStay/assets/103061751/5ed64073-a96b-4f0d-9a9e-33a689552f4f" alt="Nguyễn Nhựt Phi" width="16%"><img width="10%">
+<img src="https://github.com/T6-PTPM-2023-QL-HomeStay/T6-PTPM-2023-QL-HomeStay/assets/103061751/2de585aa-5c91-4f78-8891-72c3f47c0daa alt="Nguyễn Thị Ngọc Trinh" width="14%"> </p>
 
 
 
