@@ -1,11 +1,12 @@
 ## Đồ án quản lý Homestay khu vực Tp. Hồ Chí Minh
 <div id="header">
-<span>Trần Minh Bảo</span></br>
-<span>Nguyễn Nhựt Phi</span></br>
-<span>Nguyễn Thị Ngọc Trinh</span>
+- Trần Minh Bảo</br>
+- Nguyễn Nhựt Phi</br>
+- Nguyễn Thị Ngọc Trinh
 </div>
 
 ## Phân công công việc cần làm
+
 
 
 
